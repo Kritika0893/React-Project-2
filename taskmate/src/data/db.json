@@ -1,0 +1,21 @@
+{
+    "product":[{
+        "id":1001,
+        "name":"Basics to advanced in react",
+        "price":34,
+        "in_stock":true
+    },{
+        "id":1002,
+        "name":"Django",
+        "price":34,
+        "in_stock":true
+
+    },
+{
+    "id":1003,
+    "name":"Backend development",
+    "price":34,
+    "in_stock":true
+}]
+
+}

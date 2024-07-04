@@ -1,0 +1,58 @@
+.active{
+    font-size: 50px;
+}
+.logo{
+    height: 80px;
+}
+.App{
+    text-align: center;
+}
+.box{
+    max-width: 200px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.16) 0px 1px 4px;
+    padding: 10px;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+button.add{
+    background-color: #18978F;
+}
+button.sub{
+    background-color: #eb4747;
+}
+button.reset{
+    background-color: green;
+}
+ul{
+    max-width: 600px;
+    margin:50px auto;
+    padding: 20px;
+    box-shadow: rgba(0,0,0,0.02) 0px 1px 3px 0px,rgba(27,35,31,0.15)0px 0px 1px 2px;
+}
+li{
+    font:16px;
+    list-style: none;
+    margin: 20px 5px;
+}
+li.completed{
+    box-shadow: rgba(197,255,156,0.16)0px 1px 4px;
+}
+li.incomplete{
+    box-shadow: rgba(255,161,145,0.16)0px 1px 4px;
+}
+button.delete{
+    border: 0px;
+    border-radius: 5px;
+    background-color: #eb4747;
+    color: #c21d1d;
+}
